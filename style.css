@@ -1,0 +1,30 @@
+.custom-wide-card {
+    max-width: 600px;
+    max-height: 350px;
+    width: 100%;
+    border: none;
+  }
+
+.custom-wide-card img {
+    max-width: 200px;
+    max-height: 350px;
+    object-fit: cover;
+  }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&family=Pacifico&family=Raleway:ital,wght@0,100..900;1,100..900&family=Slabo+27px&display=swap');
+
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.slabo{
+  font-family: "Slabo 27px", serif;
+  font-size: 40pt;
+  font-style: normal;
+}
+
+.noborder{
+  border: 0px;
+}
